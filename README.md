@@ -1,4 +1,4 @@
-#Видео камеры
+# Видео камеры
 [![Build Status](https://travis-ci.org/ReyBos/job4j_camera.svg?branch=master)](https://travis-ci.org/ReyBos/job4j_camera)
 <p>
     Необходимо написать код для получения и агрегации данных из нескольких сервисов.
@@ -38,11 +38,11 @@
         "ttl": 120
     },
     {
-          "id": 3,
-          "urlType": "ARCHIVE",
-          "videoUrl": "rtsp://127.0.0.1/3",
-          "value": "fa4b5d52-249b-11e9-ab14-d663bd873d93",
-          "ttl": 120
+        "id": 3,
+        "urlType": "ARCHIVE",
+        "videoUrl": "rtsp://127.0.0.1/3",
+        "value": "fa4b5d52-249b-11e9-ab14-d663bd873d93",
+        "ttl": 120
     },
     {
         "id": 20,
