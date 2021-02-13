@@ -1,5 +1,6 @@
 # Видео камеры
-[![Build Status](https://travis-ci.org/ReyBos/job4j_camera.svg?branch=master)](https://travis-ci.org/ReyBos/job4j_camera)
+[![Build Status](https://travis-ci.org/ReyBos/job4j_camera.svg?branch=master)](https://travis-ci.org/ReyBos/job4j_camera) &nbsp;&nbsp;
+[![codecov](https://codecov.io/gh/ReyBos/job4j_camera/branch/master/graph/badge.svg?token=ADQNARS17I)](https://codecov.io/gh/ReyBos/job4j_camera)
 <p>
     Необходимо написать код для получения и агрегации данных из нескольких сервисов.
     <br><br>Получение списка доступных видеокамер:
